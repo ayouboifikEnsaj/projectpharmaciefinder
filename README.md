@@ -2,13 +2,15 @@
 
 ## Pharmacy-Client
 
-Visit the [Pharmacy-Client website](https://ismail-pharmacy-front.vercel.app/)
+Visit the <a href="https://ismail-pharmacy-front.vercel.app/" style="color: #0366d6; text-decoration: none; border-bottom: 2px solid #0366d6;">Pharmacy-Client website</a>
 
 ## Admin-Pharmacist-Space
 
-Access the [Admin-Pharmacist Space](https://raspy-pickle-production.up.railway.app/login)
+Access the <a href="https://raspy-pickle-production.up.railway.app/login" style="color: #0366d6; text-decoration: none; border-bottom: 2px solid #0366d6;">Admin-Pharmacist Space</a>
 
 ## Image Docker
 ![image](https://github.com/ayouboifikEnsaj/projectpharmaciefinder/assets/107751911/7a3f4cd3-6041-4612-a9a3-d3eba86f393e)
 
-## Video démentratif
+## Video démonstratif
+watch the video 
+https://youtu.be/FyVnBFGFZKo
